@@ -1,0 +1,7 @@
+
+xsquid:S2068"U'password' detected in this expression, review this potentially hardcoded credential.(ö¯¾£şÿÿÿÿ8åÉ–âà,
+Wsquid:S1118
+":Add a private constructor to hide the implicit public one.(¿·«8åÉ–âà,
+ysquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ºõñ°8åÉ–âà,
+~squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ö¯¾£şÿÿÿÿ8åÉ–âà,
+~squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(”ÔÛ¦ûÿÿÿÿ8åÉ–âà,

@@ -1,0 +1,26 @@
+
+Gsquid:S1068")Remove this unused "lblId" private field.(¡—ÚÏ8åÉ–âà,
+{squid:S1450"]Remove the "lblDescription" field and declare it as a local variable in the relevant methods.(¡—ÚÏ8åÉ–âà,
+ssquid:S1450"URemove the "jTable" field and declare it as a local variable in the relevant methods.(“Ñ£±8‘„ãà,
+Esquid:S1659"'Declare "btnRemove" on a separate line.(²ßâË8åÉ–âà,
+usquid:S1450"WRemove the "lblPrice" field and declare it as a local variable in the relevant methods.(¡—ÚÏ8åÉ–âà,
+Dsquid:S1659"&Declare "txtPrice" on a separate line.(ĞÄƒÜ8åÉ–âà,
+tsquid:S1450"VRemove the "lblName" field and declare it as a local variable in the relevant methods.(¡—ÚÏ8åÉ–âà,
+xsquid:S1450"ZRemove the "lblQuantity" field and declare it as a local variable in the relevant methods.(¡—ÚÏ8åÉ–âà,
+Gsquid:S1659")Declare "txtQuantity" on a separate line.(ĞÄƒÜ8åÉ–âà,
+Esquid:S1659"'Declare "btnUpdate" on a separate line.(²ßâË8åÉ–âà,
+Msquid:S1068"/Remove this unused "lblQuantity" private field.(¡—ÚÏ8åÉ–âà,
+Csquid:S1659"%Declare "txtName" on a separate line.(ĞÄƒÜ8åÉ–âà,
+Jsquid:S1659",Declare "lblDescription" on a separate line.(¡—ÚÏ8åÉ–âà,
+Hsquid:S1068"*Remove this unused "jTable" private field.(“Ñ£±8éÓšãà,
+Csquid:S1659"%Declare "lblName" on a separate line.(¡—ÚÏ8åÉ–âà,
+Jsquid:S1659",Declare "txtDescription" on a separate line.(ĞÄƒÜ8åÉ–âà,
+Dsquid:S1659"&Declare "lblPrice" on a separate line.(¡—ÚÏ8åÉ–âà,
+Gsquid:S1068")Remove this unused "txtId" private field.(ĞÄƒÜ8 ¡ãà,
+Csquid:S1659"%Declare "btnRead" on a separate line.(²ßâË8åÉ–âà,
+dsquid:UselessImportCheck	"9Remove this unused import 'java.awt.event.MouseListener'.(«Äñö8éÓšãà,
+asquid:UselessImportCheck"6Remove this unused import 'java.awt.event.MouseEvent'.(›õ8éÓšãà,
+Psquid:S1068"2Remove this unused "lblDescription" private field.(¡—ÚÏ8åÉ–âà,
+Gsquid:S1659")Declare "lblQuantity" on a separate line.(¡—ÚÏ8åÉ–âà,
+Isquid:S1068"+Remove this unused "lblName" private field.(¡—ÚÏ8åÉ–âà,
+Jsquid:S1068",Remove this unused "lblPrice" private field.(¡—ÚÏ8åÉ–âà,
